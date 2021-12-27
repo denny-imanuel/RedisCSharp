@@ -1,7 +1,7 @@
 # RedisDB Connector (CSharp)
 by Denny Imanuel
 
-This mini project showcase how to connect to Mongo DB using CSharp programming language.
+This mini project showcase how to connect to Redis DB using CSharp programming language.
 You don't need physical database to test the code. We'll use Docker Compose to create database container.
 
 ### Requirement
